@@ -1,0 +1,57 @@
+body {
+    /* Full height */
+    /* height: 100%;  */
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header {
+    text-align: center;
+    height: 100px;
+    color: black;
+}
+
+.page-header h1 {
+    font-size: 450%;
+    margin-top: 75px;
+}
+
+/* .page-header img {
+    width: 100%;
+}  */
+
+.container {
+    margin-top: 65px;
+    height: 100%;
+    width: 715px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    /* opacity: .5; */
+}
+
+#start-button {
+    background-color: black;
+    opacity: .8;
+    border: 10px solid gray;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+#start-button:hover {
+    opacity: .5;
+}
+
+#time, #present-question, #question, #answerChoices{
+    color: black;
+    /* font-display:  */
+
+}
+
+
+
